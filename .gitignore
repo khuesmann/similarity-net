@@ -1,0 +1,8 @@
+logs/*
+checkpoints/*
+.ipynb_checkpoints
+.idea
+__pycache__
+data
+results/*
+tmp/*
